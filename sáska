@@ -11,6 +11,29 @@
    <p>Támadásuknak két formája van: lehetnek <strong>lándzsások</strong> vagy <strong>zúzók</strong>.<br>Az ollóik villámgyors nyitásával és lengetésével támadnak, amellyel maguknál jóval nagyobb ellenfeleknek is komoly sérüléseket okozhatnak.</p>
    <h2>Látás</h2>
    <p>A szemeik mozgékony kocsányokon ülnek, és egymástól függetlenül képesek mozogni. Jelenleg a sáskarákok szemét tartjuk a legkomplexebb látószervnek az állatok között.<br>A látásuk olyannyira kiváló, hogy képesek érzékelni a polarizált fényt, valamint a normál spektrumon kívüli színeket.</p>
+   <table>
+    <capion>A különböző típusú színlátó csapok száma a szemben</caption>
+     <tr>
+      <th>fajok</th>
+      <th>különböző csapok száma</th>
+     </tr>
+     <tr>
+      <th>kutyák</th>
+      <th>2</th>
+     </tr>
+     <tr>
+      <th>emberek</th>
+      <th>3</th>
+     </tr>
+     <tr>
+      <th>pillangók</th>
+      <th>5</th>
+     </tr>
+     <tr>
+      <th>sáskarák</th>
+      <th>16</th>
+     </tr>
+   </table>
    <p>Source: <a herf="https://simple.wikipedia.org/wiki/Mantis_shrimp">Wikipedia</a></p>
 </body>
 </html>
