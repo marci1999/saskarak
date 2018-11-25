@@ -6,7 +6,7 @@
  <body>
    <h1>Igaz tények a sáskarákról</h1>
    <p>A sáskarákok ragadozó állatok, amelyek nagy sebességű ütésekkel ölik meg zsákmányukat. Nagy, komplex szemekkel és feltűnő színekkel rendelkeznek. </p>
-  <img src=˝http://i.imgur.com/tPT0bDo.jpg˝ alt="Sáskarák">
+  <img src="http://i.imgur.com/tPT0bDo.jpg" alt="Sáskarák">
    <h2>Támadás</h2>
    <p>Támadásuknak két formája van: lehetnek <strong>lándzsások</strong> vagy <strong>zúzók</strong>.<br>Az ollóik villámgyors nyitásával és lengetésével támadnak, amellyel maguknál jóval nagyobb ellenfeleknek is komoly sérüléseket okozhatnak.</p>
    <h2>Látás</h2>
@@ -54,6 +54,6 @@
       <th>16</th>
      </tr>
    </table>
-   <p>Source: <a herf=˝https://simple.wikipedia.org/wiki/Mantis_shrimp˝>Wikipedia</a></p>
+   <p>forrás: <a href="https://simple.wikipedia.org/wiki/Mantis_shrimp">Wikipedia</a></p>
 </body>
 </html>
